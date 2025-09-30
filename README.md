@@ -1,0 +1,3 @@
+E-COMMERCE SHOPPING CART 
+
+The E-commerce Shopping cart is a Java-based mini-project that simulates the core functionality of an e-commerce platform like Amazon or Myntra. It allows users to add products to a cart with details such as product name, price, and quantity. The program calculates the total price of items in the cart and can be extended to include features like discounts, checkout, and inventory management. This project demonstrates object-oriented programming concepts such as encapsulation and modular design, ensuring that product details are securely managed and the system is easy to maintain.
